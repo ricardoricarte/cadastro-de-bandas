@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br" xmlns:th="https://www.thymeleaf.org">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/webjars/bootstrap/css/bootstrap.min.css" />
+    <title>Projeto Company</title>
+    <meta name="author" content="José Ricardo" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="https://kit.fontawesome.com/006642858d.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato|Noto+Sans+JP|Open+Sans|Roboto&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div th:replace="fragmentos/fragmentos :: cabecalho"></div>
+    <section class="neo-section">
+      <div class="center neo-container">
+        <h1 class="texto-centro">Sistema de Gerenciamento de Colaboradores</h1>
+
+        <div class="botoes">
+          <div clas="wm">
+            <h5 class="btn">Cadastrar Colaborador</h5>
+            &nbsp&nbsp
+          </div>
+          <div clas="wm">
+            <h5 class="btn justify-content-center">Pesquisar Colaborador</h5>
+            &nbsp&nbsp
+          </div>
+          <div clas="clear"></div>
+        </div>
+      </div>
+    </section>
+
+    <div th:replace="fragmentos/fragmentos :: rodape"></div>
+    <script src="/webjars/jquery/3.6.1/jquery/min.js"></script>
+    <script src="/webjars/bootstrap/js/bootstrap/min.js"></script>
+  </body>
+</html>
