@@ -29,7 +29,7 @@ public class ColaboradorController {
         return mv;
     }
 
-    @PostMapping("InsertColaboradores")
+    @PostMapping("insertColaboradores")
     public ModelAndView insertColaboradores(@Valid Colaborador colaborador, BindingResult br) {
         ModelAndView mv = new ModelAndView();
         if (br.hasErrors()) {
