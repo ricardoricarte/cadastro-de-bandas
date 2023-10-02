@@ -18,13 +18,19 @@
 
 <br>
 </h1>
+## 💻 Projeto
+
+"Este projeto foi concebido como resposta ao desafio proposto pela empresa Sea Solutions.
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Spring Boot
 - Thymeleaf
-
+- MySQL
+- HTML
+- CSS
 
 ## 🗒️ Roteiro
 
