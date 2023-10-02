@@ -1,5 +1,5 @@
-<h1 align="">
- <img src="https://p3k.com.br/wp-content/uploads/2022/05/P3K_employee-experience-a-importancia-de-promove-lo-1024x624.png" width="70%" align="center>
+<h1 align="left">
+ <img src="https://p3k.com.br/wp-content/uploads/2022/05/P3K_employee-experience-a-importancia-de-promove-lo-1024x624.png" width="50%">
 
 
 <p align="center"  width="30%">
