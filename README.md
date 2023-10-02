@@ -45,8 +45,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - localhost:8080
 
   ![Colaborador 1](https://github.com/ricardoricarte/colaboradores/assets/56279938/93d835e1-7c01-48f6-a25a-56d8ca7d1906)
-  ![COlaborador 2](https://github.com/ricardoricarte/colaboradores/assets/56279938/f0634a1d-ea6a-4aa1-9a5a-1000af3fa3e3)
   ![Cola 3](https://github.com/ricardoricarte/colaboradores/assets/56279938/22b1690c-6e40-4f13-9d0c-4601dea0f7a6)
+  ![COlaborador 2](https://github.com/ricardoricarte/colaboradores/assets/56279938/f0634a1d-ea6a-4aa1-9a5a-1000af3fa3e3)
 
   
 
