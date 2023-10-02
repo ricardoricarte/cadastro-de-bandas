@@ -1,7 +1,7 @@
-<h1 align="left">
+<h1 align="center">
  <img src="https://p3k.com.br/wp-content/uploads/2022/05/P3K_employee-experience-a-importancia-de-promove-lo-1024x624.png" width="50%">
 
-
+</h1>
 <p align="center"  width="30%">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@
     <a href="https://www.buymeacoffee.com/codeandmusic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="174"></a>
 
 <br>
-</h1>
+
 ## 💻 Projeto
 
 "Este projeto foi concebido como resposta ao desafio proposto pela empresa Sea Solutions.
