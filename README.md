@@ -1,5 +1,5 @@
 <h1 align="left">
- <img src="https://www.poderdaescuta.com/wp-content/uploads/2019/01/259926-guia-de-como-estimular-o-bemestar-dos-colaboradores.jpg" width="70%">
+ <img src="https://p3k.com.br/wp-content/uploads/2022/05/P3K_employee-experience-a-importancia-de-promove-lo-1024x624.png" width="70%">
 
 
 <p align="center">
