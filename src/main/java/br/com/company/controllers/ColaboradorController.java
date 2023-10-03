@@ -22,7 +22,7 @@ public class ColaboradorController {
     private ColaboradorDao colaboradorRepository;
 
     @GetMapping("/inserirColaboradores")
-    public ModelAndView InsertColaboradores(Colaborador colaborador) {
+    public ModelAndView colaboradores(Colaborador colaborador) {
         ModelAndView mv = new ModelAndView();
         mv.setViewName("Colaborador/formColaborador");
         mv.addObject("colaborador", new Colaborador());
