@@ -20,7 +20,7 @@
 
 ## 💻 Projeto
 
-"Este projeto foi concebido como resposta ao desafio proposto pela empresa Sea Solutions.
+"Projeto para Cadastro de Colaboradores
 
 ## ✨ Tecnologias
 
@@ -44,9 +44,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Execute o projeto Spring Boot
 - localhost:8080
 
-  ![Colaborador 1](https://github.com/ricardoricarte/colaboradores/assets/56279938/93d835e1-7c01-48f6-a25a-56d8ca7d1906)
-  ![Cola 3](https://github.com/ricardoricarte/colaboradores/assets/56279938/22b1690c-6e40-4f13-9d0c-4601dea0f7a6)
-  ![COlaborador 2](https://github.com/ricardoricarte/colaboradores/assets/56279938/f0634a1d-ea6a-4aa1-9a5a-1000af3fa3e3)
+  ![Colaboradores 1](https://github.com/ricardoricarte/colaboradores/assets/56279938/60aaa295-1940-414e-b133-acf4e0a00bd6)
+
+  ![colaborador 2](https://github.com/ricardoricarte/colaboradores/assets/56279938/a4151923-780b-4154-b4ca-9f8abc45d742)
+
+  ![colaborador 3](https://github.com/ricardoricarte/colaboradores/assets/56279938/f6363639-4f7f-4681-887a-483d3fd618cd)
 
   
 
