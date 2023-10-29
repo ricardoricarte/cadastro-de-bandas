@@ -5,9 +5,9 @@ import lombok.Getter;
 @Getter
 public enum Status {
 
-  ATIVO("Ativo"),
-  ATESTADO("Atestado"),
-  FERIAS("Férias");
+  ATIVA("Ativa"),
+  HIATO("Hiato"),
+  DISSOLVIDA("Dissolvida");
 
   private String status;
 

@@ -18,36 +18,36 @@
     <div th:replace="fragmentos/fragmentos :: cabecalho"></div>
 
     <div class="container" style="margin-top: 50px">
-      <h3>Últimos Colaboradores Adicionados</h3>
+      <h3>Últimas Bandas Adicionadas</h3>
       <hr />
       <table class="table table-bordered table-hover">
         <thead>
           <th scope="col">Nome</th>
-          <th scope="col">Area</th>
+          <th scope="col">Estilo</th>
           <th scope="col">Matricula</th>
           <th scope="col">Status</th>
-          <th scope="col">Turno</th>
+          <th scope="col">Cidade</th>
           <th scope="col">Ação</th>
         </thead>
         <tbody>
-          <tr scope="row" th:each="colaboradores : ${listColaboradores}">
-            <td th:text="${colaboradores.nome}"></td>
-            <td th:text="${colaboradores.area}"></td>
-            <td th:text="${colaboradores.matricula}"></td>
-            <td th:text="${colaboradores.status}"></td>
-            <td th:text="${colaboradores.turno}"></td>
+          <tr scope="row" th:each="bandas : ${listBandas}">
+            <td th:text="${bandas.nome}"></td>
+            <td th:text="${bandas.estilo}"></td>
+            <td th:text="${bandas.matricula}"></td>
+            <td th:text="${bandas.status}"></td>
+            <td th:text="${bandas.cidade}"></td>
 
             <td>
               <a
                 class="btn btn-light btn-lg active"
-                th:href="@{alterar/{id}(id=${colaboradores.id})}"
+                th:href="@{alterar/{id}(id=${bandas.id})}"
               >
                 <i class="fas fa-edit"></i> Editar</a
               >
 
               <a
                 class="btn btn-light btn-lg active"
-                th:href="@{excluir/{id}(id=${colaboradores.id})}"
+                th:href="@{excluir/{id}(id=${bandas.id})}"
               >
                 <i class="fas fa-times"></i> Excluir</a
               >

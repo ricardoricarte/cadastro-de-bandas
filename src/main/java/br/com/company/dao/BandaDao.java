@@ -3,9 +3,9 @@ package br.com.company.dao;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import br.com.company.models.Colaborador;
+import br.com.company.models.Banda;
 
 @Repository
-public interface ColaboradorDao extends JpaRepository<Colaborador, Integer> {
+public interface BandaDao extends JpaRepository<Banda, Integer> {
 
 }

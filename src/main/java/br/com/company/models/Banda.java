@@ -1,6 +1,6 @@
 package br.com.company.models;
 
-import br.com.company.enums.Area;
+import br.com.company.enums.Estilo;
 import br.com.company.enums.Status;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -18,7 +18,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @Entity
-public class Colaborador {
+public class Banda {
 
   @Id
   @GeneratedValue(strategy = GenerationType.AUTO)
@@ -29,10 +29,10 @@ public class Colaborador {
   @NotBlank(message = "O nome não pode ser Vazio.")
   private String nome;
 
-  @Column(name = "area")
+  @Column(name = "estilo")
   @Enumerated(EnumType.STRING)
   @NotNull(message = "O campo não pode ser Nulo.")
-  private Area area;
+  private Estilo estilo;
 
   @Column(name = "matricula")
   @NotNull(message = "Clique no botão Gerar.")
@@ -45,8 +45,8 @@ public class Colaborador {
   private Status status;
 
   @NotBlank(message = "O Campo não pode ser Vazio.")
-  @Column(name = "turno")
+  @Column(name = "cidade")
   @Size(min = 4, message = "No minimo 4 caracteres. O Turno não pode ser vazio.")
-  private String turno;
+  private String cidade;
 
 }
