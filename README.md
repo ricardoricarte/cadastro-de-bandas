@@ -1,5 +1,6 @@
 <h1 align="center">
- <img src="https://p3k.com.br/wp-content/uploads/2022/05/P3K_employee-experience-a-importancia-de-promove-lo-1024x624.png" width="50%">
+ <img src="![logo_header-site](https://github.com/ricardoricarte/cadastro-de-bandas/assets/56279938/6336e3ee-a773-4a16-814a-aa7c9d5229ff)
+" width="50%">
 
 </h1>
 <p align="center"  width="30%">
