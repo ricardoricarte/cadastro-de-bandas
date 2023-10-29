@@ -20,7 +20,7 @@
 
 ## 💻 Projeto
 
-"Projeto para Cadastro de Colaboradores
+"Projeto para Cadastro de Bandas
 
 ## ✨ Tecnologias
 
@@ -44,11 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Execute o projeto Spring Boot
 - localhost:8080
 
-  ![Colaboradores 1](https://github.com/ricardoricarte/colaboradores/assets/56279938/60aaa295-1940-414e-b133-acf4e0a00bd6)
 
-  ![colaborador 2](https://github.com/ricardoricarte/colaboradores/assets/56279938/a4151923-780b-4154-b4ca-9f8abc45d742)
-
-  ![colaborador 3](https://github.com/ricardoricarte/colaboradores/assets/56279938/f6363639-4f7f-4681-887a-483d3fd618cd)
 
   
 
