@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src=![logo_header-site](https://github.com/ricardoricarte/cadastro-de-bandas/assets/56279938/6336e3ee-a773-4a16-814a-aa7c9d5229ff)
+ <img src="https://i0.wp.com/www.bahiarock.com.br/wp-content/uploads/2017/10/Cadastro1.jpg?fit=750%2C430&ssl=1"
 width="100%">
 
 </h1>
