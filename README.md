@@ -1,6 +1,6 @@
 <h1 align="center">
  <img src="https://i0.wp.com/www.bahiarock.com.br/wp-content/uploads/2017/10/Cadastro1.jpg?fit=750%2C430&ssl=1"
-width="100%">
+width="50%">
 
 </h1>
 <p align="center"  width="30%">
