@@ -46,7 +46,7 @@ public class Banda {
 
   @NotBlank(message = "O Campo não pode ser Vazio.")
   @Column(name = "cidade")
-  @Size(min = 4, message = "No minimo 4 caracteres. A campo não pode ser vazio.")
+  @Size(min = 4, message = "No minimo 4 caracteres.")
   private String cidade;
 
 }
