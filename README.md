@@ -1,6 +1,6 @@
 <h1 align="center">
  <img src="![logo_header-site](https://github.com/ricardoricarte/cadastro-de-bandas/assets/56279938/6336e3ee-a773-4a16-814a-aa7c9d5229ff)
-" width="50%">
+" width="100%">
 
 </h1>
 <p align="center"  width="30%">
